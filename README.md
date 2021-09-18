@@ -1,6 +1,6 @@
 
-# NativePosEngine
-## An intuitive & modern web based POS system
+# Please go to  https://github.com/h5gs/nativeposengine for latest updates and changes
+## We have rebraned wallacepos to develop further for advance usecases.
 This is fork of amazing project wallacepos which is not maintained now.
 
 We have decied to take this to next level and planed to make it best mobile pos app for everyone.
