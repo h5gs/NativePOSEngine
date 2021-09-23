@@ -1,6 +1,6 @@
 
-# Please go to  https://github.com/h5gs/nativeposengine for latest updates and changes
-## This repo is not maintained now. We have rebraned wallacepos to fresh repo/name and will develop further for advance usecases.
+# NativePOSEngine
+## We have rebraned wallacepos to fresh repo/name and will develop further for advance usecases.
 This is fork of amazing project wallacepos which is not maintained now.
 
 We have decied to take this to next level and planed to make it best mobile pos app for everyone.
